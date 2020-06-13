@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 using CitizenFX.Core;
 using static CitizenFX.Core.Native.API;
 using CalloutAPI;
+/* This callout is one of the first callouts that I have made. I also consider this open source. If anybody wants to offer suggestions or add to the code...
+ * I would be more than accepting of it. */
+
 
 namespace IndecentExposure
 {
-    [CalloutProperties("IndecentExposure","Shplink","0.1",Callout.Probability.Medium)]
+    [CalloutProperties("IndecentExposure","Shplink","1.0",Callout.Probability.Medium)]
     public class IndecentExposure : CalloutAPI.Callout
     {
 
