@@ -37,6 +37,9 @@
     <Reference Include="CitizenFX.Core">
       <HintPath>..\..\references\CitizenFX.Core.dll</HintPath>
     </Reference>
+    <Reference Include="FivePD.net">
+      <HintPath>..\..\Collab-Warrant-Callouts\Warrant Callouts\FivePD.net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
